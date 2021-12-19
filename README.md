@@ -1,4 +1,4 @@
-## <h4> Hi, I’m Antonia </h4>
+## <h2> Hi, I’m Antonia! </h2><br>
 
 - 👀 I’m interested in Marketing
 - 🌱 I’m currently learning Business Analytics 
