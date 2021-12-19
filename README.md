@@ -7,4 +7,4 @@ I am a marketer who recently decided to study Business Analytics to combine both
 
 Do not hesitate to contact me via:
 - <a href="https://www.linkedin.com/in/antonialira">LinkedIn</a>
-- [Email] (mailto:antonia.lirabc@gmail.com)
+- <a href="mailto:antonia.lirabc@gmail.com">Email</a>
